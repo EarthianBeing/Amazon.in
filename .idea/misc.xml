@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/alexa_icon_background.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/banner_ripple.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/ic_baseline_home_24_black.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/ic_baseline_menu_24_enable.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/ic_baseline_person_24_enable.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/ic_baseline_shopping_cart_24_enable.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/mic_icon_background.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/options_background.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/qr_button_background.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/search_box_background.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/solid_background.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/solid_background_disable.xml" value="0.1485" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/drawable/splash_background.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/layout-v26/activity_home.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Amazon/app/src/main/res/layout/activity_home.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

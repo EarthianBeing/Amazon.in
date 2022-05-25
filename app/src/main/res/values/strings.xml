@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Amazon</string>
+    <string name="search">Search Amazon.in</string>
+    <string name="voice_search">Search with voice</string>
+    <string name="scan_product">Scan the product</string>
+    <string name="deliver_text">Deliver to John - Tokyo 440022</string>
+    <string name="prime">Prime</string>
+    <string name="mobiles">Mobiles</string>
+    <string name="electronics">Electronics</string>
+    <string name="fashion">Fashion</string>
+    <string name="minitv">miniTV</string>
+    <string name="alexa">Alexa</string>
+</resources>
